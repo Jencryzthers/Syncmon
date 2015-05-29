@@ -1,6 +1,7 @@
 # Syncmon (LFTP Web Monitor)
 
-Current version: 0.03 
+Current Version: 0.03 
+Language: Currently only in French (English is being added soon)
 
 Monitor file transfers done by LFTP with few sweet options. This project is completely open-source you can do whatever you want with this project. I made this to simplify my download monitoring and Im adding feature overtime. it is really poor quality code (sorry) but im not looking for any optimzing yet, it was just a proof of concept/prototype, im looking to optimize it in the near future while adding most of my idea to it! 
 

@@ -16,7 +16,8 @@ A few todo list:
  * @todo: much more...
 
 
-Here's the simple config for now ! :+1:
+Here's the simple config for now !
+
 (I'm planning to adding it to the web interface itself so its easier to edit)
 
 ```php
